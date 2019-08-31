@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{2D208CF0-D989-4633-BF2F-E87831BFD7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{A2C5EEE8-775F-4177-96F3-477D04C6D2A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D208CF0-D989-4633-BF2F-E87831BFD7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D208CF0-D989-4633-BF2F-E87831BFD7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D208CF0-D989-4633-BF2F-E87831BFD7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D208CF0-D989-4633-BF2F-E87831BFD7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C5EEE8-775F-4177-96F3-477D04C6D2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C5EEE8-775F-4177-96F3-477D04C6D2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C5EEE8-775F-4177-96F3-477D04C6D2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C5EEE8-775F-4177-96F3-477D04C6D2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3107D6-00FB-499F-B2F3-386AD8474EE4}
+	EndGlobalSection
+EndGlobal
